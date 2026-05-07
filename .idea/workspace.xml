@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708c0429-7548-4b71-9fa4-bc720b65e8b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CouplingDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TightCoupling/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TightCoupling/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loose/EmailNotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loose/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loose/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
